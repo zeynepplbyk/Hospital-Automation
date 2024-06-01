@@ -1,0 +1,82 @@
+[
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-06-03",
+        "RandevuSaati": "00:49",
+        "HastaID": 28,
+        "DoktorID": 93,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-05-26",
+        "RandevuSaati": "14:52",
+        "HastaID": 28,
+        "DoktorID": 78,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-05-20",
+        "RandevuSaati": "05:31",
+        "HastaID": 29,
+        "DoktorID": 66,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-05-22",
+        "RandevuSaati": "05:00",
+        "HastaID": 29,
+        "DoktorID": 48,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-06-15",
+        "RandevuSaati": "00:19",
+        "HastaID": 30,
+        "DoktorID": 94,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-06-05",
+        "RandevuSaati": "02:35",
+        "HastaID": 30,
+        "DoktorID": 109,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-05-21",
+        "RandevuSaati": "05:22",
+        "HastaID": 31,
+        "DoktorID": 101,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-06-16",
+        "RandevuSaati": "09:54",
+        "HastaID": 31,
+        "DoktorID": 75,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-06-04",
+        "RandevuSaati": "18:19",
+        "HastaID": 32,
+        "DoktorID": 34,
+        "YoneticiID": 1
+    },
+    {
+        "RandevuID": null,
+        "RandevuTarihi": "2024-06-06",
+        "RandevuSaati": "23:03",
+        "HastaID": 32,
+        "DoktorID": 45,
+        "YoneticiID": 1
+    }
+]

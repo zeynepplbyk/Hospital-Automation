@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('arkaplan.jpg');
+
+    background-size: cover;
+    background-position: center;
+}
+
+
+.login-container {
+    background-color: rgba(255, 255, 255, 0.5); /* Panelin yarı saydam beyaz arka plan */
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px; /* Panelin maksimum genişliği */
+    width: 90%; /* Panelin genişliği */
+    text-align: center; /* Metin hizalama */
+}
+
+.login-container h2 {
+    margin-bottom: 20px;
+}
+
+.login-container form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.login-container label {
+    margin-bottom: 5px;
+}
+
+.login-container input,
+.login-container select,
+.login-container button {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 20px; /* Butonların oval şekilde oluşturulması */
+    width: 100%; /* Giriş alanlarının genişliği */
+    box-sizing: border-box; /* Padding ve border dahil olacak şekilde genişlik hesaplaması */
+}
+
+.login-container input:focus,
+.login-container select:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.login-container button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    width: 100%; /* Giriş butonunun genişliği */
+}
+
+.login-container button:hover {
+    background-color: #0056b3;
+}
+
+#newPatientForm {
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
