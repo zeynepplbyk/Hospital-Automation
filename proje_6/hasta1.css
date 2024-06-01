@@ -6,10 +6,12 @@ body {
     background-size: cover;
     background-position: center;
     min-height: 100vh;
+    overflow-y: auto; /* Dikey kaydırma çubuğunu etkinleştirir */
     overflow-x: hidden; /* Yatay kaydırma çubuğunu gizler */
     display: flex;
     justify-content: center;
     align-items: center;
+    flex-direction: column; /* Öğeleri yukarıdan aşağıya hizalar */
 }
 
 .container {
@@ -20,6 +22,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center; /* Öğeleri dikey olarak merkezler */
+    width: 90%; /* Konteynerin genişliğini belirler */
+    max-width: 600px; /* Konteynerin maksimum genişliğini belirler */
+    margin: 20px 0; /* Üst ve alt boşluk ekler */
 }
 
 .info-section {
@@ -38,4 +43,3 @@ input[type="submit"] {
     border-radius: 4px;
     box-sizing: border-box;
 }
-
