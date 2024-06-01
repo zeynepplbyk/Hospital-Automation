@@ -18,7 +18,7 @@
 
 <img width="1272" alt="Ekran Resmi 2024-06-01 12 30 34" src="https://github.com/zeynepplbyk/Hospital-Automation/assets/125740535/e834146a-1af6-4b26-b751-992c7b1a0dd2">
 
-<img width="1443" alt="Ekran Resmi 2024-06-01 12 29 16" src="https://github.com/zeynepplbyk/Hospital-Automation/assets/125740535/97b7500b-f885-48e7-b31b-ef6fea723278">
+<img width="1203" alt="Ekran Resmi 2024-06-01 12 30 44" src="https://github.com/zeynepplbyk/Hospital-Automation/assets/125740535/f54d24cb-c942-4e7e-833e-cd65be4fe8c8">
 
 
 
